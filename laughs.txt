@@ -7,7 +7,7 @@ ROT?FL
 HE(HE)+
 HA+
 K(EK)*E
-TE(HE)+
+TE(HE+)+
 LO+L
 (JA)+
 (HAR+)+
