@@ -4,8 +4,6 @@ import sre_yield
 import re
 
 
-
-
 def metadosi_periorismwn(eisagomeni_le3i,staurole3o,grammi):
     diaforetika_grammata=''.join(set(eisagomeni_le3i))
     for k in range(2,len(grammi),2):
